@@ -15,6 +15,7 @@ parameters. Under this situation, the code has the following data augmentation a
 ![](./img/1.png)
 ![](./img/2.png)
 ![](./img/3.png)
+![](./img/4.png)
 
 #### References
 [1]Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-net: Convolutional networks for
