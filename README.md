@@ -11,8 +11,12 @@ parameters. Under this situation, the code has the following data augmentation a
 2. Zooming
 3. Rotation
 
-#### References
+#### Final Results:
+![](./img/1.png)
+![](./img/2.png)
+![](./img/3.png)
 
+#### References
 [1]Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-net: Convolutional networks for
 biomedical image segmentation. InInternational Conference on Medical image computing and
 computer-assisted intervention, pages 234–241. Springer, 2015.
